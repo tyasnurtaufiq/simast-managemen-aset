@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">Asset Kampus</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="logout">Logout</string>
+    <string name="add_asset">Tambah Aset</string>
+    <string name="edit_asset">Edit Aset</string>
+    <string name="delete_asset">Hapus Aset</string>
+    <string name="search_asset">Cari Aset</string>
+</resources>
